@@ -1,0 +1,7 @@
+{
+  "name": "wol-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Jonathan Stassen",
+  "license": "MIT"
+}
